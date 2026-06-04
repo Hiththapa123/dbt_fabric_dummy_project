@@ -1,0 +1,1 @@
+# dbt_fabric_dummy_project
